@@ -23,3 +23,4 @@ function sayHiToGrandma(string) {
 }
 
 var lowercase = sayHiToGrandma('hello');
+console.log(lowercase);
