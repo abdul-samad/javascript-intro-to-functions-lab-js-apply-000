@@ -25,4 +25,4 @@ function sayHiToGrandma(string) {
 
 }
 
-sayHiToGrandma(string);
+//sayHiToGrandma(string);
