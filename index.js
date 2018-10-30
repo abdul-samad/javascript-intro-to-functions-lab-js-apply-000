@@ -20,8 +20,8 @@ function sayHiToGrandma(string) {
     return;
   }
 
-  if (string.toUpperCase()) {
-    return;
+  // if (string.toUpperCase()) {
+  //   return;
 
   }
 }
