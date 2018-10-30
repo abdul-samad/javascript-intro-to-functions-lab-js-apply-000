@@ -20,7 +20,6 @@ function sayHiToGrandma(string) {
     console.log(string.toLowerCase());
     return 'hello';
   }
-
 }
 
-//sayHiToGrandma('hello');
+var lowercase = sayHiToGrandma('hello');
