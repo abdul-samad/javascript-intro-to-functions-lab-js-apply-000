@@ -14,20 +14,7 @@ function logWhisper(string){
   console.log(string.toLowerCase());
 }
 
-// function sayHiToGrandma(string){
-//
-//   var lowercase = "hello";
-//   if (string == string.toLowerCase()) {
-//     // return sayHiToGrandma(string);
-//     return string.toLowerCase();
-//   }
-//
-// }
-
 function sayHiToGrandma(string) {
-    if (string.toLowerCase() === "hello") {
-      return "hello".toLowerCase();
-      //return sayHiToGrandma(string);
-    }
+  sayHiToGrandma("hello");
 
 }
