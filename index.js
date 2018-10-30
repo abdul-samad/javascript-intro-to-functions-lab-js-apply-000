@@ -23,4 +23,4 @@ function sayHiToGrandma(string) {
 }
 
 var lowercase = sayHiToGrandma('hello');
-return lowercase;
+return lowercase();
