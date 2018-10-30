@@ -14,12 +14,12 @@ function logWhisper(string){
   console.log(string.toLowerCase());
 }
 
-// // function sayHiToGrandma(string) {
-// //
-// //   if (string.toLowerCase()) {
-// //     console.log(string.toLowerCase());
-// //     return string.toLowerCase();
-// //   }
-// // }
+function sayHiToGrandma(string) {
+
+  if (string.toLowerCase()) {
+    console.log(string.toLowerCase());
+    return string.toLowerCase();
+  }
+}
 // //
 // // var lowercase = sayHiToGrandma('hello');
