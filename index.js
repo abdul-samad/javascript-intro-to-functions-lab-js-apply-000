@@ -24,4 +24,7 @@ function sayHiToGrandma(string) {
   //   return;
 
   }
+
 }
+
+sayHiToGrandma(string);
